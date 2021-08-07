@@ -1,4 +1,7 @@
 # pokedex
+Quarto projeto no Curso "Formação Node.js"
+
+Neste projeto foi implementado Vue.js, onde foi utilizado API do site PokeAPI junto de Bulma CSS framework e Axios.
 
 ## Project setup
 ```
